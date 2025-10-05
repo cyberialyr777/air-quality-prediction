@@ -1,0 +1,2 @@
+timestamp,temperature_2m,relativehumidity_2m,precipitation,pressure_msl,windspeed_10m,winddirection_10m,boundary_layer_height,shortwave_radiation_sum,hour_of_day,day_of_week,month_of_year,is_weekend,co,no,no2,nox,o3,pm25,so2,pm25_lag_3h,pm25_lag_6h,pm25_lag_12h,pm25_lag_24h
+2025-10-04 22:00:00+00:00,13.6,88,0.0,1010.0,8.4,65,60.0,19.53,6,5,10,True,0.4,0.0,0.0121,0.0121,0.032,12.5,0.0,3.4,8.9,7.1,8.7

@@ -1,0 +1,2 @@
+prediction_timestamp,base_timestamp,city,pm25_current,pm25_predicted_24h
+2025-10-06 00:00:00+00:00,2025-10-05 00:00:00+00:00,Mexico City,24.0,21.64538460381258
